@@ -1,0 +1,17 @@
+a{
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-thickness: 5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px red;
+}
+p{
+    text-indent: 50px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 50px;
+    white-space: pre-line;
+    font-family: 'Times New Roman', Times, serif;
+}
